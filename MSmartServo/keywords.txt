@@ -6,7 +6,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-MSmartServo	KEYWORD1	MSmartServo
+MSmartServo	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
